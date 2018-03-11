@@ -1,0 +1,1 @@
+cmake -Bbuildmingw -H. -G "Unix Makefiles" -DRAYLIB_PATH=C:/raylib

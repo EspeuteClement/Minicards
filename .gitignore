@@ -1,0 +1,8 @@
+.clion/
+.idea/
+.vscode/
+build**/
+bin/
+CMakeFiles/
+res/
+
